@@ -1,0 +1,14 @@
+<templateSet group="jlllp">
+  <template name="customLog" value="private static final Logger log = LoggerFactory.getLogger($className$.class);" description="自定义日志" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="customMethodAnnotation" value="@author Bob &#10;* @date $DATE$" description="自定义方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

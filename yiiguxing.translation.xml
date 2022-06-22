@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor. Trained on billions of lines of public code, GitHub Copilot turns natural language prompts including comments and method names into coding suggestions across dozens of languages." />
+      <item value="Optional value should only be accessed after calling isPresent()" />
+      <item value="Methods should not have identical implementations" />
+      <item value="The underlying implementation of String::replaceAll calls the java.util.regex.Pattern.compile() method each time it is called even if the first argument is not a regular expression. This has a significant performance cost and therefore should be used with care. When String::replaceAll is used, the first argument should be a real regular expression. If it’s not the case, String::replace does exactly the same thing as String::replaceAll without the performance drawback of the regex. This rule raises an issue for each String::replaceAll used with a String as first parameter which doesn’t contains special regex character or pattern." />
+      <item value="&quot;Stringreplace&quot; should be preferred to &quot;StringreplaceAll&quot;" />
+      <item value="When @Autowired is used, dependencies need to be resolved when the class is instantiated, which may cause early initialization of beans or lead the context to look in places it shouldn’t to find the bean. To avoid this tricky issue and optimize the way the context loads, dependencies should be requested as late as possible. That means using parameter injection instead of field injection for dependencies that are only used in a single @Bean method." />
+      <item value="Factory method injection should be used in &quot;@Configuration&quot; classes" />
+      <item value="甲纳税人识别号" />
+      <item value="'Workbook' used without 'try'-with-resources statement" />
+      <item value="Lambdas containing only one statement should not nest this statement in a block" />
+      <item value="Returns the character (Unicode code point) before the specified index. The index refers to char values (Unicode code units) and ranges from 1 to length. If the char value at (index - 1) is in the low-surrogate range, (index - 2) is not negative, and the char value at (index - 2) is in the high-surrogate range, then the supplementary code point value of the surrogate pair is returned. If the char value at index - 1 is an unpaired low-surrogate or a high-surrogate, the surrogate value is returned." />
+      <item value="Assist in Spring application development - Adds support for start initializr, autocomplete Spring BootCloud configuration keyvalue, Spring reference configuration, Spring metadata documentation.(Support: Java, Kotlin, application.yml and bootstrap.properties)" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1655717649839" />
+  </component>
+</application>
