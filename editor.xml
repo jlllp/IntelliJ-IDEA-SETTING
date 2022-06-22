@@ -2,4 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
 </application>
