@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things." />
+      <item value="Reduce the total number of break and continue statements in this loop to use at most one." />
       <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="The value false assigned to 'next' is never used" />
       <item value="GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor. Trained on billions of lines of public code, GitHub Copilot turns natural language prompts including comments and method names into coding suggestions across dozens of languages." />
@@ -18,7 +20,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
