@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="838" />
+    <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Private field 'rentBillNewFacade' is never assigned" />
       <item value="A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things." />
       <item value="Reduce the total number of break and continue statements in this loop to use at most one." />
       <item value="'continue' is unnecessary as the last statement in a loop" />
@@ -20,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
