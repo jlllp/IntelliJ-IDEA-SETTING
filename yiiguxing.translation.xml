@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="838" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Common part can be extracted removing branch" />
       <item value="Private field 'rentBillNewFacade' is never assigned" />
       <item value="A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things." />
       <item value="Reduce the total number of break and continue statements in this loop to use at most one." />
@@ -24,7 +25,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
+        <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
