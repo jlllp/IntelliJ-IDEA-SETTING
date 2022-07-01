@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="838" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Regex alternatives should not be redundant" />
+      <item value="&quot;indexOf&quot; checks should not be for positive numbers" />
       <item value="Common part can be extracted removing branch" />
       <item value="Private field 'rentBillNewFacade' is never assigned" />
       <item value="A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things." />
@@ -25,7 +27,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="20" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
