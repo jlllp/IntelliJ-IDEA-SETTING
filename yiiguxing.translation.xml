@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="838" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="packet" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of kotlin.collections.ArraysKt" />
       <item value="An attempt was made to call the method kotlin.collections.ArraysKt.copyInto([B[BIII)[B but it does not exist. Its class, kotlin.collections.ArraysKt, is available from the following locations" />
       <item value="Regex alternatives should not be redundant" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
